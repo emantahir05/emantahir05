@@ -27,7 +27,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs,nextjs,ts,nodejs,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=nestjs,nextjs,ts,nodejs,mongodb,postgres, reactjs, expressjs, mysql TRPc" />
 </p>
 
 <!-- CONNECT -->
