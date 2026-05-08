@@ -1,7 +1,5 @@
 <!-- BANNER -->
-<div align="center">
-  <img src="https://placehold.co/1200x400/1a1b27/white?text=Eman+Tahir+Portfolio" width="100%"/>
-</div>
+
 
 <!-- HEADLINE -->
 <h1 align="center">Hi 👋, I'm Eman Tahir</h1>
