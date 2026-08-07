@@ -71,10 +71,18 @@ I use **Claude Code** and **MCP servers** as part of my day-to-day development w
 ## 📊 Stats
 
 <p align="center">
-  <img alt="Eman Tahir's GitHub stats"
-       src="https://github-readme-stats.vercel.app/api?username=emantahir05&show_icons=true&theme=vision-friendly-dark" width="48%"/>
+  <img alt="Eman Tahir's GitHub profile summary"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emantahir05&theme=github_dark" width="80%"/>
+</p>
+<p align="center">
+  <img alt="Repositories per language"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emantahir05&theme=github_dark" width="41%"/>
+  <img alt="Most committed language"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emantahir05&theme=github_dark" width="41%"/>
+</p>
+<p align="center">
   <img alt="Eman Tahir's GitHub contribution streak"
-       src="https://streak-stats.demolab.com/?user=emantahir05&theme=vision-friendly-dark" width="48%"/>
+       src="https://streak-stats.demolab.com/?user=emantahir05&theme=vision-friendly-dark" width="60%"/>
 </p>
 
 <!-- CONNECT -->
