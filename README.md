@@ -6,20 +6,23 @@
 
 ## 👋 About
 
-<!-- TODO(eman): rewrite these three lines in your own words — this is a draft based on your headline and stack. -->
+I build **AI systems that have to survive production** — which in practice is mostly a
+distributed-systems problem wearing a model-shaped hat.
 
-I'm a software engineer working across the full stack, with most of my time on the backend.
-I build services in **NestJS** and **TypeScript**, front them with **Next.js**, and persist to
-**Postgres** and **MongoDB**. Lately I've been focused on breaking monoliths into event-driven
-microservices with **Kafka** and **RabbitMQ**, and running them on **Docker** and **Kubernetes**.
+My work centres on **retrieval**: hybrid search across **vector** and **full-text** indexes,
+**knowledge graphs** in **Neo4j** for the relationship-heavy questions embeddings answer badly,
+and **GraphRAG** pipelines that combine the two. The parts that decide whether a system actually
+works are the unglamorous ones — chunking strategy, reranking, grounding every answer in
+citations, and measuring retrieval quality instead of eyeballing it.
 
-On the AI side I build **RAG pipelines** — chunking and embedding source documents, storing vectors
-in **Pinecone** and **pgvector**, and wiring retrieval into LLM calls against the **Claude API**.
-I use **Claude Code** and **MCP servers** as part of my day-to-day development workflow.
+Around that sits the engineering: **agentic** services on the **Claude API** with tools exposed
+over **MCP**, typed end to end in **TypeScript** with **NestJS** and **Next.js**, **Postgres** as
+the system of record, **Kafka** as the event backbone, and **Kubernetes** underneath — traced with
+**OpenTelemetry**, because an agent you can't observe is an agent you can't debug.
 
-- 🔭 Currently working on: <!-- TODO: what you're building right now -->
-- 🌱 Currently learning: <!-- TODO -->
-- 💬 Ask me about: NestJS, microservices, API design, RAG and vector search
+- 🔭 Currently working on: GraphRAG — Neo4j knowledge graphs paired with vector retrieval
+- 🌱 Currently learning: agent evaluation and retrieval benchmarking
+- 💬 Ask me about: RAG architecture, vector vs. graph retrieval, MCP, event-driven systems
 
 <!-- PROJECTS -->
 
@@ -37,12 +40,16 @@ I use **Claude Code** and **MCP servers** as part of my day-to-day development w
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img alt="TypeScript, Node.js, NestJS, Express, Next.js, React, Postgres, MongoDB, Redis, Prisma, GraphQL"
-       src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,express,nextjs,react,postgres,mongodb,redis,prisma,graphql"/>
+  <img alt="TypeScript, Node.js, NestJS, Next.js, React, Postgres, Redis, Elasticsearch, Prisma, GraphQL"
+       src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,nextjs,react,postgres,redis,elasticsearch,prisma,graphql"/>
 </p>
 <p align="center">
-  <img alt="Kafka, RabbitMQ, Docker, Kubernetes, AWS, GCP, Linux, Git, Jest"
-       src="https://skillicons.dev/icons?i=kafka,rabbitmq,docker,kubernetes,aws,gcp,linux,git,jest"/>
+  <img alt="Kafka, RabbitMQ, Docker, Kubernetes, Terraform, AWS, GCP, Grafana, Linux, Git"
+       src="https://skillicons.dev/icons?i=kafka,rabbitmq,docker,kubernetes,terraform,aws,gcp,grafana,linux,git"/>
+</p>
+<p align="center">
+  <img alt="OpenTelemetry"
+       src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
 </p>
 
 ### 🤖 AI Engineering
@@ -60,29 +67,17 @@ I use **Claude Code** and **MCP servers** as part of my day-to-day development w
 </p>
 <p align="center">
   <img alt="RAG" src="https://img.shields.io/badge/RAG-4B32C3?style=for-the-badge"/>
-  <img alt="Vector Search" src="https://img.shields.io/badge/Vector_Search-5A2D9E?style=for-the-badge"/>
+  <img alt="GraphRAG" src="https://img.shields.io/badge/GraphRAG-7B3FA0?style=for-the-badge"/>
+  <img alt="Hybrid Search" src="https://img.shields.io/badge/Hybrid_Search-5A2D9E?style=for-the-badge"/>
+</p>
+<p align="center">
+  <a href="https://neo4j.com"><img alt="Neo4j"
+     src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white"/></a>
   <a href="https://www.pinecone.io"><img alt="Pinecone"
      src="https://img.shields.io/badge/Pinecone-1C17FF?style=for-the-badge"/></a>
+  <a href="https://qdrant.tech"><img alt="Qdrant"
+     src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white"/></a>
   <img alt="pgvector" src="https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
-<!-- STATS -->
-
-## 📊 Stats
-
-<p align="center">
-  <img alt="Eman Tahir's GitHub profile summary"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emantahir05&theme=github_dark" width="80%"/>
-</p>
-<p align="center">
-  <img alt="Repositories per language"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emantahir05&theme=github_dark" width="41%"/>
-  <img alt="Most committed language"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emantahir05&theme=github_dark" width="41%"/>
-</p>
-<p align="center">
-  <img alt="Eman Tahir's GitHub contribution streak"
-       src="https://streak-stats.demolab.com/?user=emantahir05&theme=vision-friendly-dark" width="60%"/>
 </p>
 
 <!-- CONNECT -->
