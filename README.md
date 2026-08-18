@@ -84,13 +84,11 @@ the system of record, **Kafka** as the event backbone, and **Kubernetes** undern
 
 ## 🌐 Connect
 
-<!-- TODO(eman): the portfolio link is a placeholder — point it at the real domain once the site is up. -->
-
 <p align="center">
   <a href="https://www.linkedin.com/in/emantahir05">
     <img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
-  <a href="https://example.com">
-    <img alt="Portfolio (coming soon)" src="https://skillicons.dev/icons?i=vercel"/>
+  <a href="https://emantahir.vercel.app/">
+    <img alt="Portfolio" src="https://skillicons.dev/icons?i=vercel"/>
   </a>
 </p>
