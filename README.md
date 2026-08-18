@@ -33,7 +33,7 @@ the system of record, **Kafka** as the event backbone, and **Kubernetes** undern
 | **[MERN-Bookstore](https://github.com/emantahir05/MERN-Bookstore)** | Book store web app with full CRUD | MongoDB · Express · React · Node |
 | **[MERN-with-Login](https://github.com/emantahir05/MERN-with-Login)** | MERN app with signup and login flows | MongoDB · Express · React · Node |
 | **[weatherApp](https://github.com/emantahir05/weatherApp)** | Weather client built on the OpenWeather API | React (hooks) |
-| **[Firebase-CRUD](https://github.com/emantahir05/Firebase-CRUD)** | CRUD app on the Firebase realtime database | React · Firebase | --> -->
+| **[Firebase-CRUD](https://github.com/emantahir05/Firebase-CRUD)** | CRUD app on the Firebase realtime database | React · Firebase | -->
 
 <!-- TECH STACK -->
 
