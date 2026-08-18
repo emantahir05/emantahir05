@@ -23,17 +23,17 @@ the system of record, **Kafka** as the event backbone, and **Kubernetes** undern
 - 🔭 Currently working on: GraphRAG — Neo4j knowledge graphs paired with vector retrieval
 - 🌱 Currently learning: agent evaluation and retrieval benchmarking
 - 💬 Ask me about: RAG architecture, vector vs. graph retrieval, MCP, event-driven systems
-
+<!--
 <!-- PROJECTS -->
 
-## 🚀 Projects
+<!-- ## 🚀 Projects -->
 
-| Project | What it is | Stack |
+<!-- | Project | What it is | Stack |
 | --- | --- | --- |
 | **[MERN-Bookstore](https://github.com/emantahir05/MERN-Bookstore)** | Book store web app with full CRUD | MongoDB · Express · React · Node |
 | **[MERN-with-Login](https://github.com/emantahir05/MERN-with-Login)** | MERN app with signup and login flows | MongoDB · Express · React · Node |
 | **[weatherApp](https://github.com/emantahir05/weatherApp)** | Weather client built on the OpenWeather API | React (hooks) |
-| **[Firebase-CRUD](https://github.com/emantahir05/Firebase-CRUD)** | CRUD app on the Firebase realtime database | React · Firebase |
+| **[Firebase-CRUD](https://github.com/emantahir05/Firebase-CRUD)** | CRUD app on the Firebase realtime database | React · Firebase | --> -->
 
 <!-- TECH STACK -->
 
