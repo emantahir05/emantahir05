@@ -7,7 +7,7 @@
 ## 👋 About
 
 I build **AI systems that have to survive production** — which in practice is mostly a
-distributed-systems problem wearing a model-shaped hat.
+distributed-systems problem wearing a model-shaped hat  .
 
 My work centres on **retrieval**: hybrid search across **vector** and **full-text** indexes,
 **knowledge graphs** in **Neo4j** for the relationship-heavy questions embeddings answer badly,
