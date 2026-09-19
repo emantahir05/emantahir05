@@ -7,6 +7,7 @@
 ## 👋 About
 
 
+
 I build **AI systems that have to survive production** — which in practice is mostly a
 distributed-systems problem wearing a model-shaped hat. 
 
