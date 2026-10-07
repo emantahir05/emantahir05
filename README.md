@@ -4,9 +4,6 @@
 
 <!-- ABOUT -->
 
-
-
-
 ## 👋 About
 
 I build **AI systems that have to survive production** — which in practice is mostly a
