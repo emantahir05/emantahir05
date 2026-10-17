@@ -110,9 +110,6 @@ the system of record, **Kafka** as the event backbone, and **Kubernetes** undern
   <a href="https://www.linkedin.com/in/emantahir05" target="_blank">
     <img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
-  <a href="https://emantahir.vercel.app/" target="_blank">
-    <img alt="Portfolio" src="https://skillicons.dev/icons?i=vercel"/>
-  </a>
   <a href="mailto:emantahirdev@gmail.com">
     <img alt="Email" src="https://skillicons.dev/icons?i=gmail"/>
   </a>
