@@ -6,10 +6,9 @@
 
 ## 👋 About
 
-I'm a **Software Engineer at S4W** (London, remote), working directly with clients to turn
-business problems into deployed software: **AI systems**, **automations** and **full-stack
-platforms**. Four years in, I own the whole cycle, from the first discovery call and scoping to
-architecture, integration and production rollout.
+I'm a software engineer who turns business problems into deployed software: **AI systems**,
+**automations** and **full-stack platforms**. Four years in, I like owning the whole cycle, from
+the first discovery call and scoping to architecture, integration and production rollout.
 
 On the automation side I build workflows with **n8n**, **Zapier** and custom code, connecting
 CRMs like **Zoho**, messaging channels and internal tools so manual processes run on their own.
@@ -28,8 +27,7 @@ over **MCP**, typed end to end in **TypeScript** with **NestJS** and **Next.js**
 the system of record, **Kafka** as the event backbone, and **Kubernetes** underneath — traced with
 **OpenTelemetry**, because an agent you can't observe is an agent you can't debug.
 
-- 🔭 Currently working on: AI and workflow automation for UK clients, and GraphRAG — Neo4j knowledge graphs paired with vector retrieval
-- 🧩 Open source: contributing to **OpenTelemetry JS** (RabbitMQ instrumentation) and **Docling** (table-structure fixes)
+- 🔭 Currently working on: AI and workflow automation, and GraphRAG — Neo4j knowledge graphs paired with vector retrieval
 - 🤖 How I work: AI-native, with Claude Code, plan mode, parallel agents and MCP servers in the daily loop
 - 🌱 Currently learning: agent evaluation and retrieval benchmarking
 - 💬 Ask me about: RAG architecture, AI automation, MCP, multi-agent workflows, event-driven systems
