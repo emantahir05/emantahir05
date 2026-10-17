@@ -1,12 +1,20 @@
 <!-- HEADLINE -->
 <h1 align="center">Hi 👋, I'm Eman Tahir</h1>
-<h3 align="center">Software Engineer | AI Engineering · Full-Stack · Microservices</h3>
+<h3 align="center">Forward Deployed Engineer | AI · Automation · Full-Stack · Microservices</h3>
 
 <!-- ABOUT -->
 
 ## 👋 About
 
-I build **AI systems that have to survive production** — which in practice is mostly a
+I'm a **Software Engineer at S4W** (London, remote), working directly with clients to turn
+business problems into deployed software: **AI systems**, **automations** and **full-stack
+platforms**. Four years in, I own the whole cycle, from the first discovery call and scoping to
+architecture, integration and production rollout.
+
+On the automation side I build workflows with **n8n**, **Zapier** and custom code, connecting
+CRMs like **Zoho**, messaging channels and internal tools so manual processes run on their own.
+
+I also build **AI systems that have to survive production** — which in practice is mostly a
 distributed-systems problem wearing a model-shaped hat. 
 
 My work centres on **retrieval**: hybrid search across **vector** and **full-text** indexes,
@@ -20,10 +28,12 @@ over **MCP**, typed end to end in **TypeScript** with **NestJS** and **Next.js**
 the system of record, **Kafka** as the event backbone, and **Kubernetes** underneath — traced with
 **OpenTelemetry**, because an agent you can't observe is an agent you can't debug.
 
-- 🔭 Currently working on: GraphRAG — Neo4j knowledge graphs paired with vector retrieval
+- 🔭 Currently working on: AI and workflow automation for UK clients, and GraphRAG — Neo4j knowledge graphs paired with vector retrieval
+- 🧩 Open source: contributing to **OpenTelemetry JS** (RabbitMQ instrumentation) and **Docling** (table-structure fixes)
+- 🤖 How I work: AI-native, with Claude Code, plan mode, parallel agents and MCP servers in the daily loop
 - 🌱 Currently learning: agent evaluation and retrieval benchmarking
-- 💬 Ask me about: RAG architecture, vector vs. graph retrieval, MCP, event-driven systems
-<!--
+- 💬 Ask me about: RAG architecture, AI automation, MCP, multi-agent workflows, event-driven systems
+
 <!-- PROJECTS -->
 
 <!-- ## 🚀 Projects -->
@@ -82,6 +92,18 @@ the system of record, **Kafka** as the event backbone, and **Kubernetes** undern
   <img alt="pgvector" src="https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
+### ⚙️ Automation
+
+<p align="center">
+  <a href="https://n8n.io"><img alt="n8n"
+     src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/></a>
+  <a href="https://zapier.com"><img alt="Zapier"
+     src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white"/></a>
+  <a href="https://www.zoho.com/crm/"><img alt="Zoho CRM"
+     src="https://img.shields.io/badge/Zoho_CRM-E42527?style=for-the-badge&logo=zoho&logoColor=white"/></a>
+  <img alt="Webhooks" src="https://img.shields.io/badge/Webhooks-2F3437?style=for-the-badge"/>
+</p>
+
 <!-- CONNECT -->
 
 ## 🌐 Connect
@@ -92,5 +114,8 @@ the system of record, **Kafka** as the event backbone, and **Kubernetes** undern
   </a>
   <a href="https://emantahir.vercel.app/" target="_blank">
     <img alt="Portfolio" src="https://skillicons.dev/icons?i=vercel"/>
+  </a>
+  <a href="mailto:emantahirdev@gmail.com">
+    <img alt="Email" src="https://skillicons.dev/icons?i=gmail"/>
   </a>
 </p>
